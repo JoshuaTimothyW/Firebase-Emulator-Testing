@@ -18,9 +18,9 @@ Copy the following configuration from Firebase SDK snippet:
         measurementId: "..."
     };
 
-Create a file called 'fire.json' and paste the config in it
+Create a file called 'fire.json' and paste the config in it.
 
-Second, `npm i` in this project
+Second, `npm i` in this project, wait until its done.
 
 Third, run `npm run start` to start local server, done enjoy testing :)
 
@@ -38,5 +38,7 @@ Local Server start at http://localhost:8000/api/v1
 | 5  |  /user/{id} |   DELETE    |  Delete User |
 
 Data to be send For no 2-5:
+
+![screenshot](https://github.com/JoshuaTimothyW/Firebase-Emulator-Testing/blob/master/img/example.png)
 
 I test it in Postman
