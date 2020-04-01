@@ -7,6 +7,7 @@ Test for Firebase function and firestore
 First, u need to create project in your firebase account. then go to Setting>Project Setting, scroll down to Firebase SDK snippet
 
 Copy the following configuration from Firebase SDK snippet: 
+
     var firebaseConfig = {
         apiKey: "...",
         authDomain: "...",
