@@ -21,6 +21,9 @@ Copy the following configuration from Firebase SDK snippet:
 
 Create a file called 'fire.json' and paste the config in it.
 
+Put 'fire.json' in functions directory 
+
+
 Second, `npm i` in this project, wait until its done.
 
 Third, run `npm run start` to start local server, done enjoy testing :)
